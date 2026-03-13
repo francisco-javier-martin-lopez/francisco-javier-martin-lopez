@@ -4,7 +4,7 @@ I am an Aeronautical Engineer passionate about solving complex engineering chall
 
 🔭 Currently working on:
 
-Designing a helicopter Flight Control System for a simulator to emulate real-world H
+Designing a helicopter Flight Control System for a simulator to emulate real-world Handing Qualities.
 
 
 <!--
