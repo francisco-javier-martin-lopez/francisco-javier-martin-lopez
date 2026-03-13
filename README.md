@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I am an Aerospace Engineer, currently finishing the Master in Aeronautical Engineering in POLIMI & UPM by working on my thesis, about the
+desing of a flight control system for a helicopter.
+
+My interests englobe any subject related with aeronautics, specially with those related with turbomachinery, aeroelasticity and any topic related
+with flight dynamics and control.
+
+
 <!--
 **francisco-javier-martin-lopez/francisco-javier-martin-lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
