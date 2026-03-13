@@ -1,4 +1,4 @@
-Hi there, I'm Francisco 👋
+
 
 I am an Aeronautical Engineer passionate about solving complex engineering challenges, especially in subjects related to turbomachinery, aeroelasticity, and any topic related to vehicle dynamics and control. Currently completing my Double Master's Degree between UPM and POLIMI, I am looking to grow within high-tech industries.
 
